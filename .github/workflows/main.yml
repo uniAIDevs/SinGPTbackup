@@ -34,4 +34,4 @@ jobs:
           #
           # This option is especially important if the repo has not been created yet.
           # It won't really be used if the repo already exists.
-          space_sdk: 'gradio'
+          space_sdk: 'docker'
